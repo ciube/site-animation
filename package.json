@@ -1,0 +1,25 @@
+{
+  "name": "site-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciube/site-animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciube/site-animation/issues"
+  },
+  "homepage": "https://github.com/ciube/site-animation#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
